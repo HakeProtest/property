@@ -1,0 +1,1 @@
+C:\xampp\php\php.exe C:\xampp\htdocs\property\del_acc.php
